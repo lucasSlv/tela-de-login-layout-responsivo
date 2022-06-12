@@ -1,0 +1,35 @@
+<footer class="footer">
+        <div class="author">
+            <h2>Lucas Silva</h2>
+            <p>Front-end Developer</p>
+        </div>
+        <nav>
+            <ul class="redes-sociais">
+                <li class="">
+                    <a href="https://github.com/lucasSlv">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHjSURBVHgBrVXtccIwDE1CDw7+lG6QEdgANoANmk4AnQCYgG4AnaB0AroBdAKyAfzg+Ib0Pc7hHOU7VHcG+9l6kiVZMY0E8Tyvfjwee6ZpNjG3Adlqaw1scb1ep8C/q9WqG8dhRoG73c4ulUpjKLeMbDKBsWGUIUsC+/2+Z1nWPAc5xaHOdrvtyY3ADQ6HwwB/feMxGVYqlUHIAD1HXEfGP8jlcnmv1WofnN9CxJiDXPd8Ai9MxPUNc1dh/F8gdD86Bj2nXC6/YD7wlZG/PjnvbKiUMcLj+QPrV90jVpP0kpiOg9ARHDPiT7SEg46uDM8DhPByLQ1IDOtn4UCLDljYaEtlVESIME1A9isx3KLLn5l+NSR7ZhQUycW1BcsNcW5qFBRUz6e+5utnFQXiXSQ8CWKHXrJM8KNCA64OIOkNo6Cg/psCWrOKXAF2ouo+i8j+hfXCUi9Tl/rpdMrdMlAxbA22gKe3F6mV1hxj6c/xCFtpxDwjy9Mf93ahHfhSHxldYRXVhoF3uBdFrMZY98L2D4N8pNb+TbzNZhNKvLi5HKtAs6OwXcurIRfNpITHGQBXN06hrw4teYjxZZfMaSD5g6VuEohtRgOrWM+lMET6NyLNABtkKOZZDZ3P53bcPvfSHuUfhcBNgaM5veoAAAAASUVORK5CYII=" alt="GitHub">
+                    </a>
+                </li>
+                <li class="">
+                    <a href="https://www.linkedin.com/in/lucas-silva-166864237/">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAE0SURBVHgB7ZXfbYMwEMbPpgLx1m5AN8gIjJANmk7QdgM2aDdoNmg3SDZINoizAU8geIB8p+DItvLfkLzkJ6H4OOs+Dr5zRFmWEynlNxE9U78oIUQmqqpaIUhoGHIWaGlApBmgpSVeVxqG4QvCjHrA6qBpmtc4jpWOkfvDz5g8sDowi3csyRNLoK7rN71u25ZdNSFP9n3kKW0tNobIiDy5rYtAFkWR0NfuKYT4gbMSvmCEd9xS2m28j83R3c9dgSc6A7yqHCJrXmPy5yj8j3hXrDPHFDkWnh3r4CRczCzu5OY8S14CDJ40geMW/P2Kovg0c+jWXyAIgl/tMKw/nLTyFkDx1AiTY3uvEriEh8D9BaxJxpCk8Pa+fSP+76YDODnrgLzJYZfTcCiJU/CLnOnrCT4gsw0194LoDSs9SwAAAABJRU5ErkJggg==" alt="Linkedin">
+                    </a>
+                </li>
+            </ul>
+        </nav>
+        <div>
+            <p>Todos os direitos reservados © Lucas Silva 2022</p>
+        </div>
+    </footer>
+
+
+
+    <footer>
+    <div class="footer-content">
+        <h3>Lucas Silva - Front-end Developer</h3>
+        <p>Tela de login (resposiva) criada como exercício do curso de Desenvolvimento Web, chamado Estartando Devs, realizados pela minha pessoa.</p>
+    </div>
+    <div class="footer-bottom">
+        <p>copyright © <a href="">Lucas Silva - Front-end Developer</a></p>
+    </div>
+</footer>
